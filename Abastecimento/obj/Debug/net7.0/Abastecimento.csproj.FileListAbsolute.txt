@@ -1,0 +1,15 @@
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.csproj.AssemblyReference.cache
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.GeneratedMSBuildEditorConfig.editorconfig
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.AssemblyInfoInputs.cache
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.AssemblyInfo.cs
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.csproj.CoreCompileInputs.cache
+/home/estudante1/sp3044564/Abastecimento/bin/Debug/net7.0/Abastecimento
+/home/estudante1/sp3044564/Abastecimento/bin/Debug/net7.0/Abastecimento.deps.json
+/home/estudante1/sp3044564/Abastecimento/bin/Debug/net7.0/Abastecimento.runtimeconfig.json
+/home/estudante1/sp3044564/Abastecimento/bin/Debug/net7.0/Abastecimento.dll
+/home/estudante1/sp3044564/Abastecimento/bin/Debug/net7.0/Abastecimento.pdb
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.dll
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/refint/Abastecimento.dll
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.pdb
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/Abastecimento.genruntimeconfig.cache
+/home/estudante1/sp3044564/Abastecimento/obj/Debug/net7.0/ref/Abastecimento.dll
